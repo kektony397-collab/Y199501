@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Rapido Metery",
+  "description": "A real-time, sensor-fused digital fare meter for rickshaws, designed for high accuracy and persistent background operation. It calculates fares based on a tiered distance and waiting time system.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
